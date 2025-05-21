@@ -1,0 +1,4 @@
+D 'minap': Minimum average partial correlation for number of PCs Use minap With STATA 19
+D
+F minap.ado
+F minap.hlp
