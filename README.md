@@ -3,6 +3,8 @@ Minimum average partial correlation for number of PCs Use minap With STATA 19
 
 Minimum average partial correlation for principal components Use minap With STATA 19
 
+https://www.youtube.com/watch?v=JV67BEWXRLQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
